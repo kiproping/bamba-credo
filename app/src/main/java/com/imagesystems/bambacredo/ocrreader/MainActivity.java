@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.android.gms.samples.vision.ocrreader;
+package com.imagesystems.bambacredo.ocrreader;
 
 import android.content.Intent;
 import android.os.Bundle;
